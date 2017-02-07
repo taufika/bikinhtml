@@ -33,11 +33,11 @@ Terdapat "gambar".
 
 ```
 
-6. Memberi atribut. Memberi atribut kepada sebuah elemen dapat dilakukan dengan memberikan kata "dengan" yang diikuti oleh namaatribut=isiatribut. Contoh:
+6. Memberi atribut. Memberi atribut kepada sebuah elemen dapat dilakukan dengan memberikan kata "dengan atribut" yang diikuti oleh namaatribut=isiatribut. Contoh:
 
 ```
 
-Terdapat "gambar" dengan src=image.png, width=300px, class=gambar.
+Terdapat "gambar" dengan atribut src=image.png, width=300px, class=gambar.
 
 ```
 
@@ -49,3 +49,5 @@ Halaman berisikan "div". Dalam div terdapat kata "Halo".
 Kemudian, setelah div terdapat sebuah gambar dengan src=halo.jpg
 
 ```
+
+8. Import. Gunakan keyword "memakai". Contoh: `Website ini memakai "bootstrap".`

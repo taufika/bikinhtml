@@ -1,5 +1,40 @@
-Saya ingin buat halaman web. Judul halaman adalah "Website contoh".
+Saya ingin buat halaman web. Judul halaman adalah "Website contoh". Website ini memakai "bootstrap".
 
-Halaman web tersebut berisikan "div". Div tersebut berisikan "Hello world di dalam div".
+Halaman web tersebut berisikan "pembungkus". Dalam div pembungkus tersebut terdapat sebuah "heading1". Heading 1 tersebut berisikan "Hello world di dalam div".
 
-Selanjutnya, halaman berisikan "Tulisan di luar div". Di level yang sama, terdapat sebuah "div". Di dalamnya terdapat "gambar" dengan src=http://cdn.pcwallart.com/images/ball-python-cute-wallpaper-2.jpg, height=100px.
+Kemudian, di dalam pembungkus terdapat "div" lagi. Di dalamnya terdapat "heading2". Dalam heading 2 berisikan "Ini di dalam div lagi". Setelah itu, terdapat sebuah "paragraf". Di dalam paragraf terdapat 
+
+"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).".
+
+Setelah itu, terdapat sebuah "daftar bernomor".
+
+(*) Isi list pertama. Item berisikan "ABC".
+(*) Isi list kedua. Item berisikan "DEF".
+(*) Isi list ketiga. Item berisikan "GHI".
+(*) Isi list keempat. Item berisikan "JKL".
+(*) Isi list kelima. Item berisikan "MNO".
+(*) Isi list keenam. Item berisikan "PQR".
+
+Setelah itu, terdapat sebuah "paragraf". Di dalam paragraf terdapat "Ini daftar menggunakan bullet".
+
+Setelah itu, terdapat sebuah "daftar".
+
+(*) Isi list pertama. Item berisikan "ABC".
+(*) Isi list kedua. Item berisikan "DEF".
+(*) Isi list ketiga. Item berisikan "GHI".
+(*) Isi list keempat. Item berisikan "JKL".
+(*) Isi list kelima. Item berisikan "MNO".
+(*) Isi list keenam. Item berisikan "div". Di dalam div terdapat "heading3". Heading berisikan "Aku di sini". Selanjutnya,. Selanjutnya,.
+
+
+Kemudian, terdapat sebuah "div". Di dalamnya terdapat "gambar" dengan atribut src=http://cdn.pcwallart.com/images/ball-python-cute-wallpaper-2.jpg, height=200px.
+
+kemudian, terdapat sebuah "grid". 
+
+Di dalam grid terdapat "kolom grid 1/4". Kolom berisikan "gambar" dengan atribut src=https://img.clipartfest.com/65eff6e3044eef58920fad71e19fd9c3_clip-art-cute-green-snake-snake-cartoon-clipart_800-800.jpeg, width=100%.
+
+Kemudian, terdapat "kolom grid 1/4". Kolom berisikan "gambar" dengan atribut src=https://img.clipartfest.com/65eff6e3044eef58920fad71e19fd9c3_clip-art-cute-green-snake-snake-cartoon-clipart_800-800.jpeg, width=100%.
+
+Kemudian, terdapat "kolom grid 1/4". Kolom berisikan "gambar" dengan atribut src=https://img.clipartfest.com/65eff6e3044eef58920fad71e19fd9c3_clip-art-cute-green-snake-snake-cartoon-clipart_800-800.jpeg, width=100%.
+
+Kemudian, terdapat "kolom grid 1/4". Kolom berisikan "gambar" dengan atribut src=https://img.clipartfest.com/65eff6e3044eef58920fad71e19fd9c3_clip-art-cute-green-snake-snake-cartoon-clipart_800-800.jpeg, width=100%.
