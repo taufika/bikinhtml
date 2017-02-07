@@ -1,0 +1,5 @@
+Saya ingin buat halaman web. Judul halaman adalah "Website contoh".
+
+Halaman web tersebut berisikan "div". Div tersebut berisikan "Hello world di dalam div".
+
+Selanjutnya, halaman berisikan "Tulisan di luar div". Di level yang sama, terdapat sebuah "div". Di dalamnya terdapat "gambar" dengan src=http://cdn.pcwallart.com/images/ball-python-cute-wallpaper-2.jpg, height=100px.
